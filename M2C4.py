@@ -23,7 +23,6 @@ my_dictionary_users = {
 my_up_float = math.ceil(my_float)
 print(my_up_float)
 
-
 # EXERCISE 3
 
 my_sqrt = (math.sqrt(my_float))
